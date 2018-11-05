@@ -6,3 +6,4 @@ Advanced SQL
 https://community.modeanalytics.com/sql/tutorial/sql-data-types/
 */
 
+SELECT * FROM Test;
